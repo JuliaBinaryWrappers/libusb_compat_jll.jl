@@ -1,0 +1,103 @@
+[[libusb_compat]]
+arch = "aarch64"
+git-tree-sha1 = "e313e62d49a7abe34f8ef7f7453e7b27cafb0d42"
+libc = "glibc"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "adf8151f4b1b9817edad8296b6cf542654b1977aabb088f5aebb0ef15c3e9c22"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.aarch64-linux-gnu.tar.gz"
+[[libusb_compat]]
+arch = "aarch64"
+git-tree-sha1 = "85aaa1d5a9102502b23d7900e85ddd0a8fe76f52"
+libc = "musl"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "b2a3e8964d32a41761c77ddb697024206e2c4b194332f3233e5d399112b14e94"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.aarch64-linux-musl.tar.gz"
+[[libusb_compat]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "37739311132d3fac80f5318ceb7162896e729664"
+libc = "glibc"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "95077ac049825a64e48cb3698cabc584d63fd9c9419090f3640456eb4467ec6c"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.armv6l-linux-gnueabihf.tar.gz"
+[[libusb_compat]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cc6c136c7598f22a15667dda6d6ab415ee9f3a78"
+libc = "musl"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "173a5358cc002f26ce099118ba5846b5d168e3796bac61020bfe39da513dfd18"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.armv6l-linux-musleabihf.tar.gz"
+[[libusb_compat]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "76424ad3c53a0ce33e11ed05edfdebd35a3f2c0e"
+libc = "glibc"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "d034d2d82e8b755dd44d74c7c3bb7a3aead0250c2649757646cecf1ceab2d7be"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.armv7l-linux-gnueabihf.tar.gz"
+[[libusb_compat]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "29c622c8d32e68f512c2cfe76513f32e441efbd1"
+libc = "musl"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "80c60d407eb1b3b1eb4f290aa65a288df791b01cc2cbd55d2d9cdbe538311c44"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.armv7l-linux-musleabihf.tar.gz"
+[[libusb_compat]]
+arch = "i686"
+git-tree-sha1 = "e7fae35fbedc8cfb730ec525545fdb85a9d79503"
+libc = "glibc"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "449ab3e47c3d9d7d8e72d5e71f921a1aac855dd270cdfdc8a2609b3a558fe4fc"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.i686-linux-gnu.tar.gz"
+[[libusb_compat]]
+arch = "i686"
+git-tree-sha1 = "f9fbabb03060b19cb8f07454e25722a8d324b087"
+libc = "musl"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "23c3fd9ff131b8b1371f2d6d5372c57f2195850e7d013fc483d94019616c22d7"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.i686-linux-musl.tar.gz"
+[[libusb_compat]]
+arch = "powerpc64le"
+git-tree-sha1 = "5764b5e60ed3429040bbd95fcaedf4b486e90018"
+libc = "glibc"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "959dce8f3b9618a34f10e2b381d81468b0b14520824d8e6fbede7a0fe4c4c517"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.powerpc64le-linux-gnu.tar.gz"
+[[libusb_compat]]
+arch = "x86_64"
+git-tree-sha1 = "236096781e36ea986f3267fb5c16e0c9d114a130"
+libc = "glibc"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "b0014da4ed400e422f08d3f2be330c048daed62e78162068639f24a9e707316f"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.x86_64-linux-gnu.tar.gz"
+[[libusb_compat]]
+arch = "x86_64"
+git-tree-sha1 = "3e89dad65ab281c2de33a99a084d4968feeca5b1"
+libc = "musl"
+os = "linux"
+
+    [[libusb_compat.download]]
+    sha256 = "9803e93585af82148283f6fdf076d34abad69e52abf6dde985a33871354efbb6"
+    url = "https://github.com/JuliaBinaryWrappers/libusb_compat_jll.jl/releases/download/libusb_compat-v0.18.0+0/libusb_compat.v0.18.0.x86_64-linux-musl.tar.gz"
